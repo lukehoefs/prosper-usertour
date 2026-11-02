@@ -211,3 +211,6 @@ Some icons are provided by Remix Icon (https://remixicon.com), licensed under th
 Community code is licensed under the MIT license. See [LICENSE](./LICENSE).
 
 Enterprise-licensed code for self-hosted Business and Enterprise plans is governed by [LICENSE.enterprise](./LICENSE.enterprise).
+
+---
+**Prosper Tours** — Prosper Manufacturing branded build of Usertour. Original copyright (c) Usertour, Inc.; MIT core + enterprise (`ee`) portions under LICENSE.enterprise, unchanged. Branding changes: title and logo only.
